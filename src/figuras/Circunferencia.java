@@ -3,7 +3,7 @@ package figuras;
  * <h2>Clase Circunferencia</h2>
  * Clase que modela objetos de la clase Circunferencia.
  * 
- * @author Echedey HenrÌquez Hern·ndez
+ * @author Echedey Henr√≠quez Hern√°ndez
  * @version 04-2024
  */
 public class Circunferencia {
@@ -21,7 +21,7 @@ public class Circunferencia {
 	private double d;
 
 	/**
-	 * Constructor con un par·metro.
+	 * Constructor con un par√°metro.
 	 * Crea los objetos de la clase circunferencia con el radio.
 	 * @param radio	Radio de la circunferencia
 	 */
@@ -30,7 +30,7 @@ public class Circunferencia {
 	}
 
 	/**
-	 * MÈtodo p˙blico que imprime en pantalla los datos de un objeto
+	 * M√©todo p√∫blico que imprime en pantalla los datos de un objeto
 	 * de la clase circunferencia.
 	 */
 	public void imprimir() {
@@ -42,7 +42,7 @@ public class Circunferencia {
 	}
 
 	/**
-	 * MÈtodo accesor que devuelve el valor del radio de la circunferencia.
+	 * M√©todo accesor que devuelve el valor del radio de la circunferencia.
 	 * @return	radio	Radio de la circunferencia
 	 */
 	public double getRad() {
@@ -50,7 +50,7 @@ public class Circunferencia {
 	}
 
 	/**
-	 * MÈtodo mutador que permite modificar el valor del radio
+	 * M√©todo mutador que permite modificar el valor del radio
 	 * de la circunferencia.
 	 * @param rad	Nuevo radio de la circunferencia
 	 */
@@ -59,7 +59,7 @@ public class Circunferencia {
 	}
 
 	/**
-	 * MÈtodo que comprueba si la circunferencia que se le pasa es igual
+	 * M√©todo que comprueba si la circunferencia que se le pasa es igual
 	 * a la circunferencia actual, teniendo o no en cuenta los decimales. 
 	 * @param considerarDecimales	Boolean que indica si se deben tener en cuenta
 	 * los decimales o no
