@@ -1,1 +1,1 @@
-tagSearchIndex = [];updateSearchResults();
+tagSearchIndex = [{"l":"Clase Circunferencia","h":"class figuras.Circunferencia","d":"Section","u":"refactor/figuras/Circunferencia.html#clase-circunferencia-heading"},{"l":"Clase Test","h":"class figuras.Test","d":"Section","u":"refactor/figuras/Test.html#clase-test-heading"}];updateSearchResults();
