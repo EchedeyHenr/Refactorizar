@@ -1,6 +1,12 @@
 package figuras;
-
-public class test {
+/**
+ * <h2>Clase Test</h2>
+ * Clase que contiene el método main
+ * 
+ * @author Echedey Henríquez Hernández
+ * @version 04-2024
+ */
+public class Test {
 	public static void main (String[] args)
     {
              Circunferencia c1 = new Circunferencia(5.5);
