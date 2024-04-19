@@ -1,9 +1,9 @@
 package figuras;
 /**
  * <h2>Clase Test</h2>
- * Clase que contiene el mÃ©todo main
+ * Clase que contiene el método main
  * 
- * @author Echedey HenrÃ­quez HernÃ¡ndez
+ * @author Echedey Henríquez Hernández
  * @version 04-2024
  */
 public class Test {
